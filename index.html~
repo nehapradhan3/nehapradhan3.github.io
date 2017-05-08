@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="http://coletownsend.com/web/content/fonts/Entypo/Entypo/entypo.css" media="all">
+
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
+	<link href='css/about.css' rel='stylesheet' type='text/css'>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/darkly/bootstrap.min.css">
+<title>Neha Pradhan</title>
+</head>
+<body>
+<h1>About me</h1>
+<p class="bioo">
+	I find the smell of Detol oddly comforting. Hello Everyone! My name is Neha Pradhan.<br/> I live in Kathmandu Nepal. <br/>
+	I did my schooling from an all girl's convent school, St. Mary's high School, Jawalakhel,lalitpur.<br/>
+	I completed Bachelors in Computer Engineering from Kathmandu Engineering College, Kalimati.<br/>
+	Currently I work as a Junior Software Engineer at Fusemachines, Nepal (Hattisar).<br/>
+	I am shy when it comes to initiating to talk to new people, so please come say hi! :P :P
+
+</p>
+</div>
+<div id="wrapper">
+	<div class="bio">
+	<center><div id="container">
+
+		<div class="info">
+			<div class="name">Neha Pradhan</div>
+			<div class="name">Junior Software Engineer</div>
+			<div class="name"><a href="http://fusemachines.com.np/">Fusemachines, Nepal</a></div>
+			<div class="location"><a href="map.html"><span class="pin">&#59172;</span> Kathmandu</a></div>
+		</div>
+		<div class="menu">
+			<ul>
+				<li><a href="https://www.linkedin.com/in/neha-pradhan-682263130/"><i class="fa fa-linkedin"></i></a></li>
+				<li><a href="https://www.facebook.com/neha.pradhan3" target="_blank"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="https://github.com/nehapradhan3" target="_blank"><i class="fa fa-github"></i></a></li>
+				<li><a href="https://www.instagram.com/neha_pradhan/?hl=en"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+
+			</ul>
+		</div>
+		<div class="profile">
+			<img src="https://scontent.fktm3-1.fna.fbcdn.net/v/t1.0-9/16603005_10207571133630838_2502163727690412300_n.jpg?oh=816a79df710bbb05ae0fc560b0edcdf3&oe=59751EF5" target="_blank">
+		</div>
+	</div>
+	<div id='map' style='width: 400px; height: 300px;'></div>
+
+</div>
+
+
+</body>
+</html>
